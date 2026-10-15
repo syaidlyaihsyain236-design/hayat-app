@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "هيئة شباب خاتم الانبياء",
+    "slug": "hayat-app",
+    "owner": "djhhs6jsds",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "da9d76b7-32ca-4172-82a2-0a02465545b3"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/da9d76b7-32ca-4172-82a2-0a02465545b3"
+    },
+    "runtimeVersion": { "policy": "appVersion" },
+    "android": { "package": "com.hayat.app" },
+    "ios": { "bundleIdentifier": "com.hayat.app" }
+  }
+}
